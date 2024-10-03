@@ -1,3 +1,9 @@
+# gcp-v1.4.0
+
+Added `monitoring` module:
+ - ability to creating `log based metrics`
+ - ability to creating `dashboards`
+
 # gcp-v1.3.1
 
 Enhancements:
